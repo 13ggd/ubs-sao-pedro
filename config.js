@@ -65,11 +65,7 @@ const CONFIG = {
      Enquanto estiver vazio (''), o site usa os dados de reserva do item 4
      e mostra o aviso "Site em fase de configuração".
   */
-  /* Planilha desta unidade (em branco, aguardando as 7 abas + cabecalhos):
-     https://docs.google.com/spreadsheets/d/101nmCahkHiquWVK6xlXzYfsi6uZ7p3tHdlN0Qk3gNEo/edit
-     Depois de criar as abas E marcar 'Qualquer pessoa com o link -> Leitor',
-     troque a linha abaixo por:  planilhaId:  '101nmCahkHiquWVK6xlXzYfsi6uZ7p3tHdlN0Qk3gNEo', */
-  planilhaId:  '',
+  planilhaId:  '15T3na2TK1idRsSMZoF2WZHsLrS5nH5m_fb7NAuW_Avo',
   abaSetores:  'setores',
   abaHorarios: 'mudancas-horario',
   abaRecados:  'recados',
