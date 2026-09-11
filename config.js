@@ -65,7 +65,7 @@ const CONFIG = {
      Enquanto estiver vazio (''), o site usa os dados de reserva do item 4
      e mostra o aviso "Site em fase de configuração".
   */
-  planilhaId:  '15T3na2TK1idRsSMZoF2WZHsLrS5nH5m_fb7NAuW_Avo',
+  planilhaId:  '1t8-2rSaEs0I7bUmTBInTFhBPFwC8EiEJh7d-DjwDdQE',
   abaSetores:  'setores',
   abaHorarios: 'mudancas-horario',
   abaRecados:  'recados',
